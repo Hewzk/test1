@@ -1,6 +1,6 @@
 print ("hello")
 x=3+2
 print("conflict")
-print("fijfijs")
+print("conflict2")
 print("hei")
 //osdfsdlkfjsgit 
