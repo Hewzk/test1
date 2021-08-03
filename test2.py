@@ -1,3 +1,4 @@
 print ("hello")
-x=3+2
-print(x)
+x=3+5
+print(y)
+print("Nicky")
