@@ -1,6 +1,7 @@
 print ("hello")
 x=3+2
-print(x)
+print("conflict")
 print("fijfijs")
 print("hei")
-//osdfsdlkfjs
+//osdfsdlkfjsgit 
+
